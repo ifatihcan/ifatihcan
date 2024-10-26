@@ -2,5 +2,4 @@
 I spearhead IT operations across diverse e-commerce platforms, focusing on process optimization, data security, and mobile application development.
 My passion lies in harnessing data analytics and cutting-edge technology to create scalable, efficient systems.
 🌟 Let’s connect and collaborate! [LinkedIn
-](https://www.linkedin.com/in/fatih-can-b5524a143 replace
-)
+](https://www.linkedin.com/in/fatih-can-b5524a143)
