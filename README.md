@@ -1,3 +1,4 @@
-👋 Hi, I’m Fatih Can, an IT Director with a background in Electrical and Electronics Engineering and a master’s candidate in Business Analytics. 
-   I lead IT operations for multiple e-commerce platforms, specializing in process optimization, data security, and mobile app development. 
-   Passionate about leveraging analytics and innovative tech for scalable, efficient systems.
+👋 Hi, I’m Fatih Can! As an IT Director with a solid foundation in Electrical and Electronics Engineering, I'm currently pursuing my master’s in Business Analytics. 
+I spearhead IT operations across diverse e-commerce platforms, focusing on process optimization, data security, and mobile application development.
+My passion lies in harnessing data analytics and cutting-edge technology to create scalable, efficient systems.
+🌟 Let’s connect and collaborate! LinkedIn
